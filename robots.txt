@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cumusbys.github.io/sitemap
+Sitemap: https://cumusbys.github.io/app/sitemap
+Sitemap: https://cumusbys.github.io/assets/sitemap
+Sitemap: https://cumusbys.github.io/css/sitemap
+Sitemap: https://cumusbys.github.io/includes/sitemap
+Sitemap: https://cumusbys.github.io/item/sitemap
+Sitemap: https://cumusbys.github.io/src/sitemap
